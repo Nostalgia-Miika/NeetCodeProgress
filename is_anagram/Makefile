@@ -26,4 +26,4 @@ format:
 
 # Clean up build artifacts
 clean:
-	rm -f $(TARGET)
+	rm $(TARGET)
